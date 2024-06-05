@@ -18,10 +18,7 @@
 # jp		  Japan (Tokyo)
 # sa		  South America (São Paulo)
 # us		  United States (Ohio)
-# us-cal-1	  United States (California)
-
-
-
+# us-cal-1	  United States (Califor
 
 
 
